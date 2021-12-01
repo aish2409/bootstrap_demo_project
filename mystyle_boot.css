@@ -1,0 +1,121 @@
+/*body{
+  background-image:url(https://images.unsplash.com/photo-1633511090970-5b1877d888b2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MzB8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60);
+  background-size:100%;
+  background-repeat:no-repeat;
+}
+*/
+body{
+  background-color:#54b8bf;
+}
+#mysignup{
+  /*background-color:rgba(255, 255, 255,0.10);*/
+  background-color:#e6edf0;
+  width:500px;
+  height:500px;
+  margin-left:35%;
+  margin-top:7%;
+  box-shadow:20px 30px 40px;
+
+}
+
+#signb1{
+  margin-left:35%;
+  margin-top:10%;
+  padding:5px;
+  width:30%;
+  border:none;
+}
+#signb1:hover{
+  background-color:rgba(0, 0, 0, 0.5);
+  color:white;
+  font-size:120%;
+}
+#mylogin{
+  background-color:black;
+  width:500px;
+  height:400px;
+  margin-left:35%;
+  margin-top:7%;
+  box-shadow:20px 30px 40px;
+
+}
+.loginb1{
+  margin-top:15%;
+  margin-left:35%;
+  padding:10px;
+  background-color:white;
+  color:black;
+  border:none;
+  font-family:sans-serif;
+}
+.loginb1:hover{
+  background-color:rgba(0, 0, 0, 0.5);
+  color:black;
+  font-size:120%;
+
+}
+
+#myeditup{
+  /*background-color:rgba(255, 255, 255,0.10);*/
+  background-color:#e6edf0;
+  width:450px;
+  height:500px;
+  margin-left:50%;
+  margin-top:10%;
+  box-shadow:20px 30px 40px;
+}
+.editprofile{
+  margin-top:-516px;
+  margin-left:26%;
+  background-color:black;
+  width:450px;
+  height:500px;
+  box-shadow:20px 30px 40px;
+
+}
+.link1
+{
+  position:absolute; 
+  text-decoration:none;
+  background-color:cyan;
+  padding:10px;
+  color:black;
+  font-family:Sofia;
+  margin-top:6%;
+  margin-left:7%;
+}
+a.link1:hover{
+  background-color:#ed184a;
+  font-size:110%;
+  color:white;
+}
+
+/*start here javascript part*/
+.newbox{
+  width:900px;
+  height:500px;
+  margin-top:-27%;
+  margin-left:786px;
+  background-color:#eeeee4;
+}
+#mysignup_box{
+  /*background-color:rgba(255, 255, 255,0.10);*/
+  background-color:black;
+  width:500px;
+  height:500px;
+  margin-left:15%;
+  margin-top:10%;
+  box-shadow:20px 30px 40px;*/
+}
+#sign_b1{
+  margin-left:30%;
+  margin-top:10%;
+  padding:5px;
+  width:30%;
+  border:none;
+}
+#sign_b1:hover{
+  background-color:#eeeee4;
+  color:black;
+  font-size:120%;
+}
